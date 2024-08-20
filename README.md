@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OGLcode
-We will upload the code as soon as possible.
+We will upload all the files as soon as possible.
 
 <!---
 OGLcode/OGLcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
