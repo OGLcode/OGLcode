@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @OGLcode
 We have uploaded all core files which are related with our proposed method OGL. And other parts such as datasets, baselines, models and so on, can be downloaded by yourselves. Any dataset, baseline, and model can be applied to our OGL method, and you can add them according to your needs.
 
 
